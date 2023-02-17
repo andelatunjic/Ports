@@ -12,7 +12,7 @@ Visitor | Command execution, summation of occupied berths
 Builder | Building table and it's parts: header, body, footer
 Chain of responsibility | Statistics of different ship categories
 Observer | Notify system
-Composite | Port (composite) has berths and one berth (composite) has piers (leaf)
+Composite | Port (composite) has piers and one pier (composite) has berths (leaf)
 Iterator | Iterating through the composite
 MVC | Arhitecture, VT100 terminal
 Memento | Saving all berths statuses (free/occupied) in current virtual time
