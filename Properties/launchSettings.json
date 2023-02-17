@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "atunjic_zadaca_1": {
+      "commandName": "Project",
+      "commandLineArgs": "-v DZ_3_vez.csv -l DZ_3_luka.csv -b DZ_3_brod.csv -r DZ_3_raspored.csv -m DZ_3_mol.csv -mv DZ_3_mol_vez.csv -k DZ_3_kanal.csv -br 60 -vt 50:50 -pd R:P"
+    }
+  }
+}
